@@ -22,7 +22,7 @@ I am a climber 🧗 and cyclist 🚲
 
 With a student association and some friends at Cyb'Air, we developped the **_P3δ_ toolbox** for controlling delayed systems. The app is free and available [here](https://iboussaa.gitlabpages.inria.fr/partial-pole-placement-via-delay-action/P3d-Home.html). Maybe this can help you !
 
-![image](.\assets\P3Dbanner.png "Banner")
+![P3Delta](/assets/P3Dbanner.png "Banner")
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Keith-Maxwell.Keith-Maxwell)
